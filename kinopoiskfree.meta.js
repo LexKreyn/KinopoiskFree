@@ -16,4 +16,6 @@
 // @license        MIT
 // @updateURL      https://raw.githubusercontent.com/LexKreyn/KinopoiskFree/main/kinopoiskfree.meta.js
 // @downloadURL    https://raw.githubusercontent.com/LexKreyn/KinopoiskFree/main/kinopoiskfree.user.js
+// @homepageURL    https://github.com/LexKreyn/KinopoiskFree#readme
+// @supportURL     https://github.com/LexKreyn/KinopoiskFree/issues
 // ==/UserScript==
