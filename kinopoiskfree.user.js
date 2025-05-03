@@ -2,7 +2,7 @@
 // @name           KinopoiskFree
 // @name:ru        Бесплатный Кинопоиск
 // @namespace      http://tampermonkey.net/
-// @version        1.6
+// @version        1.7
 // @description    Add button for free watch
 // @description:ru Добавляет кнопку для бесплатного просмотра
 // @author         Lex
@@ -23,7 +23,7 @@
 (function() {
     'use strict';
 
-    var freeHost = 'https://w3w.kpfr.cc';
+    var freeHost = 'https://ww2.kpfr.online';
 
     function on_page()
     {
