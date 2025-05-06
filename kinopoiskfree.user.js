@@ -2,7 +2,7 @@
 // @name           KinopoiskFree
 // @name:ru        Бесплатный Кинопоиск
 // @namespace      http://tampermonkey.net/
-// @version        1.9
+// @version        1.10
 // @description    Add modal with links for free watch
 // @description:ru Добавляет окно с ссылками для бесплатного просмотра
 // @author         Lex
@@ -26,7 +26,8 @@
     const freeHosts = {
         'db.lol': 'https://ddbb.lol/?id={filmId}&n=0',
         'C_X': 'https://ww2.kpfr.online/film/{filmId}/',
-        'FlicksBar': 'https://flcksbr.top/film/{filmId}/'
+        'FlicksBar': 'https://flcksbr.top/film/{filmId}/',
+        'ReYohoho': 'https://reyohoho.github.io/reyohoho/movie/{filmId}'
     };
 
     function format(str, params) {
