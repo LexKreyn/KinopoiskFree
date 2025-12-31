@@ -3,8 +3,8 @@
 // @name:ru        Бесплатный Кинопоиск
 // @namespace      http://tampermonkey.net/
 // @version        1.13
-// @description    Add modal with links for free watch (SPA-safe)
-// @description:ru Добавляет окно с ссылками для бесплатного просмотра (SPA-safe)
+// @description    Add modal with links for free watch
+// @description:ru Добавляет окно с ссылками для бесплатного просмотра
 // @author         Lex
 // @copyright      2024, Lex
 // @icon           https://www.kinopoisk.ru/favicon.ico
@@ -244,3 +244,4 @@
     window.addEventListener('load', init, { once: true });
   }
 })();
+
