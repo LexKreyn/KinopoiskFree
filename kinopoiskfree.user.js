@@ -2,7 +2,7 @@
 // @name           KinopoiskFree
 // @name:ru        Бесплатный Кинопоиск
 // @namespace      http://tampermonkey.net/
-// @version        1.14
+// @version        1.15
 // @description    Add modal with links for free watch
 // @description:ru Добавляет окно с ссылками для бесплатного просмотра
 // @author         Lex
@@ -27,6 +27,8 @@
     'Channel': 'tg://resolve?domain=poiskkino_free',
     'Amogus': 'https://e.amogus.work/{filmId}',
     'FlicksBar': 'https://flcksbr.top/film/{filmId}/',
+    'ReYohoho': 'https://reyohoho.gokino.by/movie/{filmId}',
+    'MovieLab': 'https://movielab.one/movies/{filmId}',
     'FBdomen': 'https://fbdomen.top/film/{filmId}/',
     'FBfind': 'https://fbfind.life/film/{filmId}/',
     'WTF': 'https://kinopoisk.wtf/film/{filmId}/',
