@@ -4,7 +4,7 @@
 // @namespace      http://tampermonkey.net/
 // @version        1.14
 // @description    Add modal with links for free watch
-// @description:ru Добавляет окно с ссылками для бесплатного просмотра + чинит блокировку скролла
+// @description:ru Добавляет окно с ссылками для бесплатного просмотра
 // @author         Lex
 // @copyright      2024, Lex
 // @icon           https://www.kinopoisk.ru/favicon.ico
