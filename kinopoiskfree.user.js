@@ -27,8 +27,6 @@
     'Channel': 'tg://resolve?domain=poiskkino_free',
     'Amogus': 'https://e.amogus.work/{filmId}',
     'FlicksBar': 'https://flcksbr.top/film/{filmId}/',
-    'Unofficial': 'https://kinopoiskapiunofficial.tech/api/v2.2/films/{filmId}',
-    'FBphd': 'https://fbphdplay.top/api/players?kinopoisk={filmId}',
     'FBdomen': 'https://fbdomen.top/film/{filmId}/',
     'FBfind': 'https://fbfind.life/film/{filmId}/',
     'WTF': 'https://kinopoisk.wtf/film/{filmId}/',
