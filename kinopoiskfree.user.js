@@ -32,7 +32,7 @@
     'WTF': 'https://kinopoisk.wtf/film/{filmId}/',
     'GoKino': 'https://matrix.gokino.by/{filmId}',
     'iFrame': 'https://iframe.cloud/iframe/{filmId}',
-    'MIM': 'https://kinopoisk.mom/film/{filmId}/',
+    'MOM': 'https://kinopoisk.mom/film/{filmId}/',
     'FFML': 'https://8f58edac.ffml.site/film/{filmId}/',
     'KinoPK': 'https://kinopk.web.app/movie/{filmId}',
     'Habster': 'https://habster.sbs/film/{filmId}/',
