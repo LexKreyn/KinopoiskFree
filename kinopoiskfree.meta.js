@@ -2,7 +2,7 @@
 // @name           KinopoiskFree
 // @name:ru        Бесплатный Кинопоиск
 // @namespace      http://tampermonkey.net/
-// @version        1.14
+// @version        1.15
 // @description    Add modal with links for free watch
 // @description:ru Добавляет окно с ссылками для бесплатного просмотра
 // @author         Lex
