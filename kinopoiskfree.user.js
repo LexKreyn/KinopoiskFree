@@ -3,7 +3,7 @@
 // @name:ru        Бесплатный Кинопоиск
 // @namespace      http://tampermonkey.net/
 // @version        1.14
-// @description    Add modal with links for free watch + fix scroll lock
+// @description    Add modal with links for free watch
 // @description:ru Добавляет окно с ссылками для бесплатного просмотра + чинит блокировку скролла
 // @author         Lex
 // @copyright      2024, Lex
