@@ -112,7 +112,7 @@
         border: 2px solid #ffd700;
         border-radius: 50px;
         padding: 12px 24px;
-        width: 200px;
+        width: 230px;
         font-family: var(--font-family,"Graphik Kinopoisk LC Web",Tahoma,Arial,Verdana,sans-serif);
         font-size: 14px;
         font-weight: 600;
@@ -184,7 +184,7 @@
       }
       #kp-free-toggle .btn-text {
         display: inline-block;
-        width: 130px;
+        width: 150px;
         text-align: center;
         overflow: hidden;
         text-overflow: ellipsis;
